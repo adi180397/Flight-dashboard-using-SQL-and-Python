@@ -4,7 +4,7 @@ Welcome to the Flight Dashboard Project! This repository contains the code for a
 Project Overview
 This Flight Dashboard provides the following features:
 
-Check Flights: Users can select departing and arriving cities to view a table of flights between these cities, including flight name, departing time, arriving time, duration, and price.
+Check Flights: Users can select departing and arriving cities to view a table of flights between these cities, including flight name, departing time, arriving time, duration, and price.<br>
 Flights Analytics: Users can explore various aspects of flight data between selected cities with the following analyses:
 Price Distribution: A bar chart showing the average price of flights from different airlines.
 Flight Frequency per Airline: A pie chart illustrating the number of flights each airline operates.
