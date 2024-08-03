@@ -12,7 +12,7 @@ Average Flight Duration per Airline: A bar chart displaying the average flight d
 Peak Departure Times: A bar chart showing the frequency of flights at different times of the day.
 Price Trend by Time of the Day: A line chart showing how flight prices vary throughout the day.
 
-Getting Started
-Prerequisites
-Python 3.7 or higher
+Getting Started<br>
+Prerequisites<br>
+Python 3.7 or higher<br>
 MySQL
