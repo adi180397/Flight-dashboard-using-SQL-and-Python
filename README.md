@@ -35,7 +35,8 @@ About the Dashboard<br>
 The "About The Dashboard" section provides a brief overview of the tool and its features. This section is styled using HTML to make it visually appealing and informative.
 
 Screenshots<br>
-Add screenshots of your dashboard here to give users a preview of what to expect.
+![image](https://github.com/user-attachments/assets/1a8b4ddd-ec74-4ce1-b34a-332db5d7ce13)
+
 
 Contributing<br>
 Contributions are welcome! If you have any suggestions or improvements, please open an issue or create a pull request.
