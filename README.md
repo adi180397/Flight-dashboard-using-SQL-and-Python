@@ -16,3 +16,36 @@ Getting Started<br>
 Prerequisites<br>
 Python 3.7 or higher<br>
 MySQL
+
+Project Structure<br>
+app.py: Main application file containing the Streamlit code.<br>
+dbconnector.py: Contains the DB class for connecting to the MySQL database and retrieving data.<br>
+requirements.txt: Lists the Python packages required for the project.<br>
+Using the Dashboard<br>
+Check Flights:<br>
+
+Select the departing and arriving cities from the dropdown menus.<br>
+Click the "Search" button to view a table of flights between the selected cities.<br>
+Flights Analytics:<br>
+
+Navigate to the "Flights Analytics" section.<br>
+Select the source and destination cities from the dropdown menus.<br>
+Explore the visualizations to gain insights into flight patterns, prices, and durations.<br>
+About the Dashboard<br>
+The "About The Dashboard" section provides a brief overview of the tool and its features. This section is styled using HTML to make it visually appealing and informative.
+
+Screenshots<br>
+Add screenshots of your dashboard here to give users a preview of what to expect.
+
+Contributing<br>
+Contributions are welcome! If you have any suggestions or improvements, please open an issue or create a pull request.
+
+License<br>
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Acknowledgements<br>
+Streamlit<br>
+MySQL<br>
+Plotly<br>
+Contact<br>
+If you have any questions, feel free to contact me at adi.763192@gmail.com
