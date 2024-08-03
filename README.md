@@ -1,4 +1,4 @@
-Flight Dashboard Project//
+Flight Dashboard Project <br>
 Welcome to the Flight Dashboard Project! This repository contains the code for a Streamlit-based web application that allows users to explore and analyze flight data. The project includes a backend for connecting to a MySQL database, and a frontend for displaying interactive visualizations.
 
 Project Overview
