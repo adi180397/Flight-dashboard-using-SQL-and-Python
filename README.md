@@ -36,6 +36,8 @@ The "About The Dashboard" section provides a brief overview of the tool and its 
 
 Screenshots<br>
 ![image](https://github.com/user-attachments/assets/1a8b4ddd-ec74-4ce1-b34a-332db5d7ce13)
+![image](https://github.com/user-attachments/assets/5d6d291f-ce06-4fd6-bb89-d51a3d8ee927)
+
 
 
 Contributing<br>
