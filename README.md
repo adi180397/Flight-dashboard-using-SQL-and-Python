@@ -39,6 +39,8 @@ Screenshots<br>
 ![image](https://github.com/user-attachments/assets/5d6d291f-ce06-4fd6-bb89-d51a3d8ee927)
 
 
+You can also chat with flight database. Flight database is integrated with Large language Model using langchain. Below is the screenshot of the same.
+![Uploading image.png…]()
 
 Contributing<br>
 Contributions are welcome! If you have any suggestions or improvements, please open an issue or create a pull request.
